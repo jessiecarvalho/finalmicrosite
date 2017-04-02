@@ -1,0 +1,28 @@
+body {
+	background-image: url("img/background_rug_5000.gif");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 600px; 
+    background-size: 50%;
+    background-color: FDEFC2;
+}
+
+.container {
+	width: 400px;
+	padding-left: 100px;
+	padding-top: 100px;
+}
+
+h7 {
+	color: 827A63;
+	font-family: helvetica;
+	font-size: 14px;
+}
+
+p {
+	font-family: helvetica;
+	font-size: 25px;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	color: 39362E;
+}
